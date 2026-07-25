@@ -107,7 +107,12 @@ The system reads vehicle parameters, publishes data through MQTT, stores data in
 
   ## Hardware Prototype
 
-  
+![Vehicle Hardware Prototype](Vehicle Monitoring System Hardware Prototype.png) 
+
+
+  ## Grafana Dashboard
+
+
 
 ---
 
