@@ -154,6 +154,16 @@ The system collects electrical parameters from PZEM-004T sensors, transmits data
 - Flask REST API
 - InfluxDB Cloud
 - Grafana
+
+## Hardware Prototype
+
+![Hardware Industrial Prototype](Industrial-Energy-Monitoring-Hardware-Prototype.png)
+
+
+## Grafana Dashboard
+
+![Industrial Dashboard](Industrial-Energy-Monitoring-System-Dashboard.png)
+  
 ---
 
 # System Architecture
