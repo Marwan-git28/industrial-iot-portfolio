@@ -12,7 +12,8 @@ My work focuses on designing complete monitoring systems, starting from embedded
 
 This portfolio demonstrates how sensor data is collected, transmitted, stored, visualized, and exposed through REST APIs using real Industrial IoT technologies.
 
-
+![Architecture](canbus_telematics_architecture.png)
+![System](system_architecture.png)
 
 My projects cover every layer of an Industrial IoT architecture, including:
 
