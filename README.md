@@ -1,16 +1,22 @@
 # Industrial IoT & Embedded Systems Engineer Portfolio
 
-End-to-End Industrial IoT projects focused on Embedded Systems, Industrial Communication Protocols, Cloud Monitoring, Data Visualization, and REST API.
+Hands-on Industrial IoT projects built using ESP32, CAN Bus J1939, Modbus RTU, MQTT, Python, Grafana, and REST API. This portfolio showcases complete end-to-end monitoring systems from embedded devices to cloud dashboards.
 
 ---
 
 # About Me
 
-I am passionate about Embedded Systems and Industrial IoT development with hands-on experience building complete end-to-end monitoring systems.
+I build practical Industrial IoT and Embedded Systems projects to strengthen my engineering skills.
+
+My work focuses on designing complete monitoring systems, starting from embedded devices, industrial communication protocols, cloud data processing, dashboards, and REST API integration.
+
+This portfolio demonstrates how sensor data is collected, transmitted, stored, visualized, and exposed through REST APIs using real Industrial IoT technologies.
+
+
 
 My projects cover every layer of an Industrial IoT architecture, including:
 
-- Embedded Systems (ESP32)
+- ESP32 Embedded Systems
 - CAN Bus SAE J1939
 - Modbus RTU (RS485)
 - MQTT Communication
@@ -72,7 +78,7 @@ The system reads vehicle parameters, publishes data through MQTT, stores data in
 - CAN Bus SAE J1939 Communication
 - Real-Time Vehicle Monitoring
 - MQTT Communication
-- Python Subscriber
+- Python Data Processing
 - InfluxDB Cloud Storage
 - Grafana Dashboard
 - Telegram Alert
@@ -82,6 +88,7 @@ The system reads vehicle parameters, publishes data through MQTT, stores data in
 ## Technologies
 
 - ESP32
+- MCP2515
 - CAN Bus SAE J1939
 - MQTT
 - Python
@@ -104,15 +111,15 @@ The system collects electrical parameters from PZEM-004T sensors, transmits data
 
 ## Features
 
-- Modbus RTU Communication
-- RS485 Network
-- MQTT TLS
-- EMQX Cloud
-- Python Backend
-- InfluxDB Cloud
-- Grafana Dashboard
-- REST API
-- ngrok Deployment
+- Electrical Energy Monitoring
+- Modbus RTU Data Acquisition
+- RS485 Multi-Device Communication
+- Secure MQTT TLS Communication
+- Cloud Data Storage
+- Real-Time Dashboard
+- REST API Integration
+- Remote API Access via ngrok
+
 
 ## Technologies
 
@@ -161,15 +168,17 @@ PZEM-004T
 
 # Repository
 
-## GitHub Portfolio PDF
+## Portfolio PDF
 
 Industrial_IoT_portfolio.pdf
+
+Download the complete Industrial IoT Portfolio (PDF) for detailed project documentation.
 
 ---
 
 # Learning Journey
 
-Throughout these projects I gained practical experience in:
+These projects helped me strengthen practical skills in:
 
 - Embedded Systems Development
 - Industrial Communication Protocols
