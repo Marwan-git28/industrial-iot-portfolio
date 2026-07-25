@@ -105,6 +105,8 @@ The system reads vehicle parameters, publishes data through MQTT, stores data in
 - Telegram Bot
 - GPS Module
 
+  
+
 ---
 
 # Project 2
