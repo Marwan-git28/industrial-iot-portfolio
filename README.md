@@ -228,10 +228,11 @@ GitHub:
 https://github.com/Marwan-git28
 
 LinkedIn:
-(Add your LinkedIn URL here)
+(https://www.linkedin.com/in/marwan-saputra-972242415/)
 
 Email:
-(Add your Email here)
+(projectesp32.mrwn@gmail.com)
+{marwan.siputra@gmail.com)
 
 ---
 
