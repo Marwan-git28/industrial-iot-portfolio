@@ -20,6 +20,10 @@ This portfolio demonstrates how sensor data is collected, transmitted, stored, v
 
 ![Industrial Energy Monitoring Architecture](system-architecture.png)
 
+## ## Smart Building Automation System Architecture
+
+![Smart Building Automation Architecture](Project/03-Smart-Building-Automation/bacnet_arduinoIDE_pythonVcode.png)
+
 
 
 My projects cover every layer of an Industrial IoT architecture, including:
