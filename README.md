@@ -8,7 +8,7 @@ Hands-on Industrial IoT projects built using ESP32, CAN Bus J1939, Modbus RTU, M
 
 I build practical Industrial IoT and Embedded Systems projects to strengthen my engineering skills.
 
-My work focuses on designing complete monitoring systems, starting from embedded devices, industrial communication protocols, cloud data processing, dashboards, and REST API integration.
+My work focuses on designing complete monitoring systems, starting from embedded devices, industrial communication protocols, cloud data processing, dashboards, REST API integration and Web Dashboard HTML.
 
 This portfolio demonstrates how sensor data is collected, transmitted, stored, visualized, and exposed through REST APIs using real Industrial IoT technologies.
 
@@ -37,8 +37,11 @@ My projects cover every layer of an Industrial IoT architecture, including:
 - ESP32 Embedded Systems
 - CAN Bus SAE J1939
 - Modbus RTU (RS485)
+- BACnet/IP
 - MQTT Communication
 - Python Backend
+- HTML Web Daashboard
+- JavaScript Dashboard
 - EMQX Cloud
 - InfluxDB Cloud
 - Grafana Dashboard
@@ -58,10 +61,12 @@ I enjoy designing reliable monitoring systems that integrate sensors, industrial
 ### Industrial Protocols
 - CAN Bus SAE J1939
 - Modbus RTU (RS485)
+- BACnet/IP
 
 ### Communication
 - MQTT
 - MQTT TLS
+- IP Adress
 
 ### Backend
 - Python
@@ -72,9 +77,15 @@ I enjoy designing reliable monitoring systems that integrate sensors, industrial
 
 ### Visualization
 - Grafana
+- Web Dashboard
+
+### Fronted
+- HTML
+- JavaScript
 
 ### Cloud
 - EMQX Cloud
+- Ngrok
 
 ### Version Control
 - Git
@@ -176,6 +187,57 @@ The system collects electrical parameters from PZEM-004T sensors, transmits data
   
 ---
 
+# Project 3
+
+# Smart Building Automation System (BACnet/IP & Modbus RTU)
+
+## Overview
+
+A Smart Building Automation System integrating BACnet/IP and Modbus RTU for building monitoring and control.
+
+The system communicates with BACnet/IP and Modbus RTU devices, processes data using Python, displays a real-time web dashboard built with HTML and JavaScript, and enables remote access through Flask REST API and ngrok.
+
+## Features
+
+- Smart Building Monitoring
+- BACnet/IP Communication
+- Modbus RTU Data Acquisition
+- Building Automation Integration
+- Real-Time Web Dashboard
+- HTML & JavaScript Frontend
+- Flask REST API
+- Remote API Access via ngrok
+
+
+## Technologies
+
+- ESP32
+- BACnet/IP
+- Modbus RTU
+- RS485
+- Python
+- HTML
+- JavaScript
+- Flask REST API
+- Web Dashboard
+- ngrok
+
+## Hardware Prototype
+
+![BACnet/IP Hardware](Project/03-Smart-Building-Automation/hardware_BACnetIP.jpg)
+
+![Modbus RTU Hardware](Project/03-Smart-Building-Automation/hardware_modbus_slavemaster.jpg)
+
+
+## Web Dashboard
+
+![Smart Building Dashboard](Project/03-Smart-Building-Automation/smart_building_dashboard.png)
+
+![Smart Building Dashboard](Project/03-Smart-Building-Automation/ngrok.web.png)
+
+___
+
+
 # System Architecture
 
 ## Vehicle Monitoring System
@@ -207,6 +269,18 @@ PZEM-004T
 
 ---
 
+## Smart Building Automation
+
+Potensiometer
+→ ESP32
+→ BACnet/IP
+→ Python Bac0
+→ Flask Rest Api
+→ JavaScript Dashboard
+→ HTML Dashboard
+→ Ngrok
+
+
 # Repository
 
 ## Portfolio PDF
@@ -229,6 +303,7 @@ These projects helped me strengthen practical skills in:
 - Dashboard Visualization
 - REST API Development
 - Industrial System Integration
+- Smart Building Automation System
 
 ---
 
